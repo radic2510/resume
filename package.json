@@ -1,0 +1,18 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "Enjoy, Fun and Pleasure",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radic2510/resume.git"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "author": "Jaeyeob Kim <radic2510@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
