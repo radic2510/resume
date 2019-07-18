@@ -37,3 +37,8 @@
 .footer {
   padding-top: 10px;
 }
+
+.comment {
+  color: #2b6dd6;
+  font-weight: 400;
+}
